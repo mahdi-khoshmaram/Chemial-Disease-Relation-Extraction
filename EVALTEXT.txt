@@ -1,0 +1,1 @@
+java -cp bc5cdr_eval.jar ncbi.bc5cdr_eval.Evaluate relation CID PubTator test.PubTator_edited.txt results.pubtatur_llama8B.txt
